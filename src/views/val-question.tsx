@@ -60,7 +60,7 @@ export function ValQuestion({ yes }: ValQuestionProps) {
           transition={{ delay: 0.5 }}
           className="mt-3 font-val text-2xl md:text-3xl text-blue-300"
         >
-          my baby girl? 💫
+          Ajike? 💫
         </motion.p>
       </motion.div>
 
